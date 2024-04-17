@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ameba_s" size="696.000000 696.000000" />
+    <ImageTarget name="Ameba" size="792.000000 595.000000" />
+    <ImageTarget name="Giardia" size="792.000000 594.000000" />
+    <ImageTarget name="Proterospongia" size="732.000000 549.000000" />
+    <ImageTarget name="Stentor" size="792.000000 595.000000" />
+    <ImageTarget name="Colpidium" size="792.000000 595.000000" />
+    <ImageTarget name="Vorticella" size="792.000000 594.000000" />
+    <ImageTarget name="Euglema" size="792.000000 594.000000" />
+    <ImageTarget name="Paramecium" size="792.000000 595.000000" />
+  </Tracking>
+</QCARConfig>
